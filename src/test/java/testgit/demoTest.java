@@ -3,7 +3,7 @@ package testgit;
 import org.testng.annotations.Test;
 import org.testng.asserts.Assertion;
 
-public class tryjenkinstest {
+public class demoTest {
     @Test
         public void addfunction1(){
         int a=2;

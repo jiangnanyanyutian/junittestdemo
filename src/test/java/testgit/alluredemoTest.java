@@ -2,7 +2,7 @@ package testgit;
 
 import org.testng.annotations.Test;
 
-public class test2{
+public class alluredemoTest {
     @Test
     public void addfunction4(){
         int a=2;
