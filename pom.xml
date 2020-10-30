@@ -82,9 +82,9 @@
                 <version>2.20</version>
                 <configuration>
 
-                    <includes>
-                        <include>Sample.java</include>
-                    </includes>
+<!--                    <includes>-->
+<!--                        <include>Sample.java</include>-->
+<!--                    </includes>-->
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                     </argLine>
